@@ -1,0 +1,332 @@
+<resources>
+    <string name="app_name">PushNotification</string>
+
+    <string name="discover_new_people">Discover New People</string>
+    <string name="change_to_public_account">Change to public account ? </string>
+    <string name="change_to_public_account_message">Anyone will able to see your photos, videos and stories. You will no longer need to approve followers.</string>
+    <string name="change_to_private_account">Change to private account</string>
+    <string name="change_to_private_account_message">When your account os private, only people you approve can see your photos, videoes and stories on SelfiLife. Your existing follower wont be affected.</string>
+
+    <string name="confirmation">Confirmation</string>
+
+    <string name="are_you_sure_delete_request">Are You Sure want to delete the Request ?</string>
+
+    <string name="your_post">Your Post</string>
+
+    <string name="toast_message">Toast text_message</string>
+
+    <string name="decision">Are you sure,You wanted to Remove Profile Picture ?</string>
+
+    <string name="save">Save</string>
+    <string name="save_collection">Save Collection</string>
+
+    <string name="saved_collection">Saved Collection</string>
+
+    <string name="view_all_your_collection">View All</string>
+
+    <string name="next">Next</string>
+    <string name="post">Post</string>
+
+
+    <!-- Strings related to profile-->
+
+    <string name="retake">Retake</string>
+    <string name="enter_caption">Write a caption</string>
+    <string name="comments">Comments</string>
+
+    <string name="add_comments">Add a comments...</string>
+    <string name="advance_setting">Advance Setting</string>
+    <string name="turn_off_commenting">Turn Off Comment on this post</string>
+
+
+    <string name="dummy">Beautiful Stories from Shakespeare is a 1907 collection published by E. Nesbit with the intention of entertaining young readers and telling William Shakespeares plays in a way they could be easily understood</string>
+
+    <!-- Strings related to profile-->
+
+    <string name="myname">Henry Cavill</string>
+    <string name="post_id">post_id</string>
+    <string name="update">Update</string>
+
+    <string name="enter_name">Enter Name</string>
+    <string name="designation">British actor</string>
+
+
+    <string name="Like">Like</string>
+    <string name="Follow">Follow</string>
+    <string name="Following">Following</string>
+    <string name="Follower">Follower</string>
+    <string name="count">0</string>
+    <string name="Photo">Photo</string>
+    <string name="Friends">Friends</string>
+    <string name="ViewAll">View All</string>
+
+    <!--Android Option-->
+    <string name="Invite_Friend">INVITE FRIEND</string>
+    <string name="FOLLOW_US">FOLLOW US</string>
+    <string name="ACCOUNT">ACCOUNT</string>
+    <string name="SETTING">SETTING</string>
+    <string name="SUPPORT">SUPPORT</string>
+    <string name="ABOUT">ABOUT</string>
+    <string name="Logout">Logout</string>
+    <string name="Faceboook">Facebook</string>
+    <string name="Twitter">Twitter</string>
+    <string name="Google_plus">Google_Plus</string>
+    <string name="Privacy_Policy">Privacy Policy</string>
+    <string name="about_us">About Us</string>
+    <string name="terms_and_condition">Terms of Service</string>
+    <string name="help_center">Help Center</string>
+    <string name="report_problem">Report Problem</string>
+    <string name="Edit_profile">Edit Profile</string>
+    <string name="Change_password">Change Password</string>
+    <string name="post_you_have_like">Post You have Liked</string>
+    <string name="Saved">Saved</string>
+    <string name="Story_setting">Story Setting</string>
+
+    <string name="Personal">Personal</string>
+    <string name="DOB">Date of Birth</string>
+    <string name="enter_DOB">Enter Date Of Birth</string>
+    <!--<string name="enter_occupation">Enter Occupation</string>-->
+    <string name="Mobile_No">Mobile No.</string>
+    <string name="Enter_Mobile_No">Enter Mobile No.</string>
+    <string name="Gender">Gender</string>
+
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="other">other</string>
+    <string name="married">married</string>
+    <string name="unmarried">unmarried</string>
+
+    <string name="coming_soon">Coming Soon</string>
+
+
+    <string name="no_you_notification">No Notification For you</string>
+
+    <string name="home_fragment_message">No Comments Yet !</string>
+
+
+    <string name="you_not_posted_yet">Seems, You not posted anything yet !</string>
+    <string name="you_not_have_friend_yet">Seems, You do not have any friend Yet here !</string>
+
+    <string name="share_using">Share Using</string>
+
+
+    <string name="Select_Gender">Select Gender</string>
+    <string name="marital_status">Marital Status</string>
+    <string name="enter_marital_status">Enter Marital Status</string>
+
+    <string name="occupation">Occupation</string>
+    <string name="City">City</string>
+    <string name="Country">Country</string>
+
+
+    <string name="address">Address</string>
+    <string name="Time">23 hours ago</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_mobile">Mobile No.</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="create_account">Create Now</string>
+    <string name="dont_have_account">Don\'t Have Account ? </string>
+    <string name="loading">Loading</string>
+    <string name="facebook_app_id">562981724060777</string>
+
+    <string name="capture">Capture</string>
+
+    <string name="valid_username">Enter Valid UserName</string>
+
+
+    <string name="cancel">Cancel</string>
+
+
+    <string name="prompt_name">Name</string>
+    <string name="prompt_username">UserName</string>
+    <string name="prompt_occupation">Occupation</string>
+    <string name="prompt_city">City</string>
+    <string name="prompt_country">Country</string>
+    <string name="prompt_dob">Date of birth</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_Confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+
+
+    <string name="notification_message">You have Notification from </string>
+
+
+    <string name="record">Record</string>
+    <string name="hello">Hello</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="option">Option</string>
+    <string name="addfriend">addfriend</string>
+
+    <string name="crop_image_activity_title"></string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="crop_image_menu_flip">Flip</string>
+    <string name="crop_image_menu_flip_horizontally">Flip horizontally</string>
+    <string name="crop_image_menu_flip_vertically">Flip vertically</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="private_account">Private Account</string>
+    <string name="confirm">Confirm</string>
+    <string name="savePostStatus">Status</string>
+    <string name="userid">userID</string>
+    <string name="submit">Submit</string>
+    <string name="type_your_report_here">type your report here</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="change_password_message">Since , you change the password You need to Login again.</string>
+    <string name="yes_i_understand">Yes , I Understand</string>
+    <string name="note">Note : </string>
+    <string name="not_now">NOT NOW</string>
+    <string name="yes">YES</string>
+    <string name="bio">Bio</string>
+    <string name="prompt_bio">Bio</string>
+    <string name="edit_post_info">Edit Post Info</string>
+    <string name="done">Done</string>
+    <string name="add_location">Add Location</string>
+    <string name="text_message">text_message</string>
+    <string name="Requested">Requested</string>
+    <string name="this_is_private_account">This is Private Account</string>
+    <string name="reply">Reply</string>
+    <string name="like">0 Like</string>
+    <string name="likes">Likes</string>
+    <string name="no_people_like">None of people like this post yet</string>
+    <string name="close">close</string>
+    <string name="send">Send</string>
+
+
+    <string name="squarecamera__request_write_storage_permission_text">Approval is needed to save your photo on your device</string>
+    <string name="Browse">browse</string>
+
+    <string name="Clear">Clear</string>
+    <string name="max_selection">Maximum 5 image you can select</string>
+    <string name="share_to">Share To</string>
+    <string name="empty_save_collection">Your Collection is Empty</string>
+    <string name="click_on_this"> Click on this  </string>
+    <string name="icon_to_save_post">Icon to save Post,</string>
+    <string name="icon">icon</string>
+    <string name="after_save_post">after save post icon turn into</string>
+    <string name="new_here">New on </string>
+    <string name="question_mark">\?</string>
+    <string name="lets_click_your_selfie">Let\'s click your First Selfie with</string>
+    <string name="photo_gallery">Photo Gallery</string>
+    <string name="video_gallery">Video Gallery</string>
+    <string name="uploading">Uploading...</string>
+    <string name="you_not_like_post_yet">You have not like any post yet</string>
+    <string name="no_people_found">No people found</string>
+
+    <!--video record-->
+    <string name="resume_camera">Resume Camera </string>
+    <string name="launch_camera_stillshot">Launch Camera for stillshot</string>
+    <string name="click_here_to_watch_preview">click here to watch preview</string>
+    <string name="search_here">Search here...</string>
+    <string name="new_message">New message</string>
+
+    <!--image selector-->
+    <string name="mis_folder_all">All Images</string>
+    <string name="mis_msg_no_camera">No system camera found</string>
+    <string name="mis_msg_amount_limit">Select images amount is limit</string>
+    <string name="mis_action_done">Done</string>
+    <string name="mis_action_button_string">%1$s(%2$d/%3$d)</string>
+    <string name="mis_photo_unit">Shot</string>
+    <string name="mis_error_image_not_exist">Image error</string>
+    <string name="mis_error_no_permission">Has no permission</string>
+    <string name="mis_permission_dialog_title">Permission Deny</string>
+    <string name="mis_permission_dialog_ok">OK</string>
+    <string name="mis_permission_dialog_cancel">CANCEL</string>
+    <string name="mis_permission_rationale_write_storage">Storage write permission is needed to save the image.</string>
+    <string name="file_provider_authority">SelfieLife file provider authority</string>
+    <string name="share_message_using">Share text_message Using</string>
+    <string name="share_image_using">Share Image Using</string>
+    <string name="type_here">Type here</string>
+    <string name="you_are_now_connected_on_sefielife">you are now connected on Sefielife</string>
+    <string name="forward_to">Forward to</string>
+    <string name="add_caption">Add a caption...</string>
+    <string name="send_message_to">Send text_message to</string>
+    <string name="send_message">SEND</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="processing">Processing...</string>
+    <string name="be_patience">Be Patience</string>
+    <string name="while_your_post_is_being_uploaded">while your post is being uploaded</string>
+    <string name="your_post_has_been_uploaded_successfully">Your Post has been Uploaded successfully</string>
+    <string name="something_went_wrong">Something went wrong</string>
+
+    <!-- VIDEO TRIMMER -->
+    <string name="label_select_video">Select Video</string>
+    <string name="permission_title_rationale">Permission needed</string>
+    <string name="permission_read_storage_rationale">Storage read permission is needed to pick files.</string>
+    <string name="toast_cannot_retrieve_selected_video">Cannot retrieve selected video</string>
+    <string name="video_saved_at">Video saves at : $%1s</string>
+
+    <string name="trimming_progress">Trimming your video...</string>
+
+
+    <string name="Get_Started">Get Started</string>
+
+    <string name="Ok">Ok</string>
+    <string name="short_seconds">sec</string>
+    <string name="megabyte">MB</string>
+    <string name="kilobyte">KB</string>
+    <string name="recent_chat">Recent chat</string>
+    <string name="new_group">New Group</string>
+    <string name="enter_group_name">Enter group name here...</string>
+    <string name="prompt_status">status</string>
+    <string name="prompt_id">id</string>
+    <string name="creating_group">Creating group</string>
+    <string name="image_gallery">Image gallery</string>
+    <string name="mute_notification">Mute Notification</string>
+    <string name="members">Members</string>
+    <string name="leave_coversation">Leaving Group Conversation</string>
+    <string name="Delete">Delete</string>
+    <string name="add_people">Add People...</string>
+    <string name="no_one_remain">No one remaining</string>
+    <string name="group">Group</string>
+    <string name="personal_chat">Personal Chat</string>
+    <string name="no_recent_chat_activity">No Recent Chat Activity</string>
+    <string name="your_group_will_display_here">Your Group(s) will display here</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="group_info">Group Info</string>
+
+    <string name="camera_permission_confirmation">needs permission to access camera.</string>
+    <string name="camera_permission_not_granted">Camera app cannot do anything without camera permission.</string>
+    <string name="participant">Participant</string>
+    <string name="network_error">network error</string>
+    <string name="oops_something_went_wrong">oops !!! something went wrong , please try again</string>
+    <string name="loadingdialog">loading...</string>
+    <string name="you">You</string>
+    <string name="phone_number">Phone number</string>
+    <string name="agree_t_and_c">By continuing, I accept the Terms of Services</string>
+    <string name="verify">verify</string>
+    <string name="otp_send_to_your_mobile">OTP have been sent to your Mobile Number</string>
+    <string name="Select_country">Select country</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="select_country_code">Select contry code</string>
+    <string name="allow_requested_permission_to_perform_action">Allow requested permission to perform action</string>
+    <string name="we_need_location_permission_to_perform_operation">We need location permission to perform operation</string>
+    <string name="we_need_phone_state_permission_to_perform_operation">We need phone state permission to perform operation</string>
+    <string name="we_need_sms_receive_permission_to_perform_operation">We need sms receive permission to perform operation</string>
+    <string name="we_need_sms_read_permission_to_perform_operation">We need sms read permission to perform operation</string>
+
+    <!--mx video player(stream while play)-->
+
+    <string name="enable_location">Enable location</string>
+
+    <!--google play service error message-->
+    <string name="Google_Play_is_disable">Google Play services is disable, Please enable it</string>
+    <string name="Google_Play_is_not_update">Google Play services is require update, Please update it</string>
+    <string name="Google_Play_is_missing">Google Play services is missing from your device</string>
+    <string name="Google_Play_is_permission_missing">Google Play services not having enough permission</string>
+    <string name="set_your_new_password">Set your new password</string>
+
+    <string name="verify_mobile_number">Verify Mobile Number</string>
+    <string name="please_enter_it_below">Please Enter it Below !</string>
+    <string name="reply_comments">Reply on comment</string>
+    <string name="delete">Delete</string>
+</resources>
